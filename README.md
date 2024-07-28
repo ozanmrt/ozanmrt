@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hello, I'm Ozan 👋
+
+I'm currently developing [HaxHell HaxHub](https://www.haxhell.com/).
+
+I love C#, Java, Python and more recently Lua!
+Languages ​​I am learning; React, TypeScript, NodeJs, React Native.
+
+
+My Personal Website: [ozanmert.com](https://www.ozanmert.com/).
 
 <!--
 **ozanmrt/ozanmrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
